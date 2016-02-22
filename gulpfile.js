@@ -20,7 +20,7 @@ var CONFIGURE_CLIENT_TEST = "./spec/configureClientTesting.js";
 var DEBUG_MODE_TEST = "./spec/debug_mode/debugModeSpec.js";
 var SERVER_TESTS = "./spec/server/**/*.js";
 var CONFIGURE_SERVER_TEST = "./spec/configureServerTesting.js";
-var BENCHMARKS = "./benchmarks/**/*.js";
+var BENCHMARKS = "./benchmarks/a.js";
 var ALL_TEST_CODE = "./spec/**/*.js";
 var NOT_BUILD_DIRECTORY_THOUGH = "!./spec/build/**/*.js";
 
